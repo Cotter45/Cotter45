@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello friends!
+## Welcome!
 
-## I used to dig holes for a living.
-
-Now, I create full-stack applications and web sites! I'm just a guy who's not afraid to roll up his sleeves and get his hands dirty; looking to take his passion and experience in building incredible things from the ground up and leverage it in the world of software engineering. Self-taught programmer who recently graduated App Academy's 24 week, full-stack Javascript / Python bootcamp. 
+I create full-stack applications and web sites! I'm just a guy who's not afraid to roll up his sleeves and get his hands dirty; looking to take his passion and experience in building incredible things from the ground up and leverage it in the world of software engineering. Self-taught programmer who recently graduated App Academy's 24 week, full-stack Javascript / Python bootcamp. 
 
 <table>
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cotter45&theme=blue-green" /></td>
