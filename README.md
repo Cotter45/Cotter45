@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 Now, I create full-stack applications and web sites! I'm just a guy who's not afraid to roll up his sleeves and get his hands dirty; looking to take his passion and experience in building incredible things from the ground up and leverage it in the world of software engineering. Self-taught programmer who recently graduated App Academy's 24 week, full-stack Javascript / Python bootcamp. 
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cotter45&show_icons=true&theme=tokyonight)](https://github.com/Cotter45?tab=repositories)
-
-![Sean's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cotter45&theme=blue-green)
+<table>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cotter45&theme=blue-green" /></td>
+ <td><img src="https://github-readme-stats.vercel.app/api?username=Cotter45&show_icons=true&theme=tokyonight" /></td>
+</table>
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
