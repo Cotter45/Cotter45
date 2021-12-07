@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Now, I create full-stack applications and web sites! I'm just a guy who's not afraid to roll up his sleeves and get his hands dirty; looking to take his passion and experience in building incredible things from the ground up and leverage it in the world of software engineering. Self-taught programmer who recently graduated App Academy's 24 week, full-stack Javascript / Python bootcamp. 
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cotter45&show_icons=true&theme=tokyonight)](https://github.com/Cotter45/github-readme-stats)
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cotter45&show_icons=true&theme=tokyonight)](https://github.com/Cotter45?tab=repositories)
 
 - 🔭 I’m currently working on ...
   * A new drag and drop task manager feature for my capstone, Workday
