@@ -34,10 +34,11 @@ I create full-stack applications and web sites! I'm just a guy who's not afraid 
   * A new drag and drop task manager feature for my capstone, Workday
   * A scribble / cards against humanity like game combination with React, HTML Canvas and Web Sockets
   * DSA ... Errday
+  * A new portfolio
 
 - 🌱 I’m currently learning ...
-  * Typescript
-  * Experimenting with Remix.run
+  * ThreeJS / HTML5 Canvas
+  * How to center DIVs
 
 - 👯 I’m looking to collaborate on ...
   * Anything! Seriously.
