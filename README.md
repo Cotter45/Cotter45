@@ -46,10 +46,8 @@ I create full-stack applications and web sites! I'm just a guy who's not afraid 
 </table> -->
 
 - 🔭 I’m currently working on ...
-  * A new drag and drop task manager feature for my capstone, Workday
   * A scribble / cards against humanity like game combination with React, HTML Canvas and Web Sockets
   * DSA ... Errday
-  * A new portfolio
 
 - 🌱 I’m currently learning ...
   * ThreeJS / HTML5 Canvas
