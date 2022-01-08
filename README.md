@@ -47,6 +47,7 @@ I create full-stack applications and web sites! I'm just a guy who's not afraid 
 
 - 🔭 I’m currently working on ...
   * A scribble / cards against humanity like game combination with React, HTML Canvas and Web Sockets
+  * An Instagram clone for Grandmas, mainly so I can learn some image manipulation on canvas with fabricJS
   * DSA ... Errday
 
 - 🌱 I’m currently learning ...
