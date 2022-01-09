@@ -51,6 +51,7 @@ I create full-stack applications and web sites! I'm just a guy who's not afraid 
   * DSA ... Errday
 
 - 🌱 I’m currently learning ...
+  * PHP
   * ThreeJS / HTML5 Canvas
   * How to center DIVs
 
