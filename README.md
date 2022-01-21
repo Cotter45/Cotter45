@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 
 ## Welcome!
 
-I create full-stack applications and web sites! I'm just a guy who's not afraid to roll up his sleeves and get his hands dirty; looking to take his passion and experience in building incredible things from the ground up and leverage it in the world of software engineering. Self-taught programmer who recently graduated App Academy's 24 week, full-stack Javascript / Python bootcamp. 
+Hi I'm Sean - Self-taught programmer who recently graduated App Academy's 24 week, full-stack Javascript / Python bootcamp. 
+
+I’m a person who, like many others, took a while to discover what my drive was in life. What turned out to be a big surprise to me, wasn’t to many others in my life. I absolutely love to create, with any tool I can get my hands on. From a pencil drawing to a heavy civil construction site or a full stack web app. I take deep pride in the successful application of skills I’ve earned in creative problem solving and continue to hone my crafts with a passion.
+
+I love being part of a team and learning collaboratively. If you are looking for someone to bounce ideas off of or need someone to dive in the deep with, let’s connect!
 
 <!-- <table>
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cotter45&theme=blue-green" /></td>
