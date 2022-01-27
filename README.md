@@ -55,7 +55,7 @@ I love being part of a team and learning collaboratively. If you are looking for
   * DSA ... Errday
 
 - 🌱 I’m currently learning ...
-  * PHP
+  * NextJS
   * ThreeJS / HTML5 Canvas
   * How to center DIVs
 
