@@ -70,7 +70,7 @@ I love being part of a team and learning collaboratively. If you are looking for
 - 📫 How to reach me: ...
   * Email - sd.cotter45@gmail.com
   * LinkedIn - https://www.linkedin.com/in/sean-cotter-43572417/
-  * Portfolio - https://cotter.tech
+  * Portfolio - https://new-cotter.herokuapp.com 
 
 - ⚡ Fun fact: ...
   * Americans have a troubling understanding of computer code.
