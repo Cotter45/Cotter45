@@ -50,7 +50,7 @@ I love being part of a team and learning collaboratively. If you are looking for
 </table> -->
 
 - 🔭 I’m currently working on ...
-  * A scribble / cards against humanity like game combination with React, HTML Canvas and Web Sockets
+  * Refactoring my capstone project for App Academy - Workday
   * An Instagram clone for Grandmas, mainly so I can learn some image manipulation on canvas with fabricJS
   * DSA ... Errday
 
