@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome!
+Hello, World! 👋
 
-Hi I'm Sean - 
+I'm Sean.
 
-I’m a person who, like many others, took a while to discover what my drive was in life. What turned out to be a big surprise to me, wasn’t to many others. I absolutely love to create - with any tool I can get my hands on. From a pencil drawing to installing 60" concrete pipe on a heavy civil construction site or a full stack web app. I take deep pride in the successful application of skills I’ve earned in creative problem solving and continue to hone my crafts with a passion.
+Sometimes, life takes us on winding journeys before we unearth our true passion. In my case, it didn't come as a shock to those who knew me best. I am, at my core, a creator. I relish every opportunity to breathe life into my ideas, whether that means sketching an intricate pencil drawing, overseeing the installment of a 60" concrete pipe at a bustling construction site, or crafting a dynamic full-stack web application. Every success is a testament to the creative problem-solving skills I've honed over the years—and I take immense pride in that.
 
-I love being part of a team and learning collaboratively. If you are looking for someone to bounce ideas off of or need someone to dive in the deep with, let’s connect!
+I'm not just about individual pursuits, though. There's something incredibly rewarding about being part of a team, learning from others, and collectively solving problems. So, if you're ever in need of a thought partner or you're searching for a collaborator who isn't afraid to dive into the deep end, you've found your match!
+
+Let's connect and create something awesome together.
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -30,34 +32,34 @@ I love being part of a team and learning collaboratively. If you are looking for
 
 <!-- <table>
   <td> -->
-<details>
+<!-- <details>
   <summary>Most Used Languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cotter45&theme=blue-green" />
-</details>
+</details> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cotter45&theme=blue-green" />
 <!--   </td>
-  <td> -->
+  <td>
 <details>
   <summary>My Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Cotter45&show_icons=true&theme=tokyonight" />
-</details>
+</details> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Cotter45&show_icons=true&theme=tokyonight" />
 <!--   </td>
 </table> -->
 
 - 🔭 I’m currently working on ...
-  * Proficiency with TypeScript
+  * Work and school... 🫥
 
 - 🌱 I’m currently learning ...
-  * Rust, Go
-  * Redis, Azure, Nginx, WASM...
+  * Rust
   * How to center DIVs
 
 - 👯 I’m looking to collaborate on ...
-  * Anything! Seriously.
+  * Anything!
  
 - 💬 Ask me about ...
   * US National Parks
   * Video Games
-  * Project Ideas - I've got too much I want to see done
+  * Music
+  * If I've forgotten to switch the laundry today
 
 - 📫 How to reach me: ...
   * Email - sd.cotter45@gmail.com
