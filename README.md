@@ -45,6 +45,11 @@ Let's connect and create something awesome together.
 <!--   </td>
 </table> -->
 
+- 💻 Tech I manage
+  * <a target="_blank" rel="noreferrer" src="https://www.zenith-app.com">Zenith - An AI powered todo app</a>
+  * <a target="_blank" rel="noreferrer" src="https://www.npmjs.com/package/@cotter45/jsdb?activeTab=versions">JSDB - A persistant JSON database</a>
+  * <a target="_blank" rel="noreferrer" src="https://www.npmjs.com/package/@cotter45/noderjs?activeTab=versions">NoderJS - Almost express.JS, with no dependencies</a>
+
 - 🔭 I’m currently working on ...
   * Work and school... 🫥
 
