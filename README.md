@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 
 Hello, World! 👋
 
-I'm Sean.
-
-Sometimes, life takes us on winding journeys before we unearth our true passion. In my case, it didn't come as a shock to those who knew me best. I am, at my core, a creator. I relish every opportunity to breathe life into my ideas, whether that means sketching an intricate pencil drawing, overseeing the installment of a 60" concrete pipe at a bustling construction site, or crafting a dynamic full-stack web application. Every success is a testament to the creative problem-solving skills I've honed over the years—and I take immense pride in that.
-
-I'm not just about individual pursuits, though. There's something incredibly rewarding about being part of a team, learning from others, and collectively solving problems. So, if you're ever in need of a thought partner or you're searching for a collaborator who isn't afraid to dive into the deep end, you've found your match!
-
-Let's connect and create something awesome together.
+I’m Sean, a software developer who lives outside of Philadelphia with my wife, children, dog, cat, and lizard. I love building things, from websites to woodworking. Currently, I work full time as a developer at Nestle Nespresso SA.
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -45,11 +39,6 @@ Let's connect and create something awesome together.
 <!--   </td>
 </table> -->
 
-- 💻 Tech I'm currently managing
-  * [Zenith - An AI powered todo app](https://zenith-app.com)
-  * [JSDB - A persistant JSON database](https://www.npmjs.com/package/@cotter45/jsdb?activeTab=versions)
-  * [NoderJS - Almost express.JS, with no dependencies](https://www.npmjs.com/package/@cotter45/noderjs?activeTab=versions)
-
 - 🔭 I’m currently working on ...
   * Work and school... 🫥
 
@@ -69,7 +58,7 @@ Let's connect and create something awesome together.
 - 📫 How to reach me: ...
   * Email - sd.cotter45@gmail.com
   * LinkedIn - https://www.linkedin.com/in/sean-cotter-43572417/
-  * Portfolio - https://cotter.tech
+  * Portfolio - https://portfolio.cotter.tech
 
 - ⚡ Fun fact: ...
   * Americans have a troubling understanding of computer code.
